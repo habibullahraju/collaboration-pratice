@@ -32,7 +32,12 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite  hello and React logos to learn more
-
+        <form action="">
+          <input type="text" />
+          <input type="text" />
+          <input type="text" />
+          <input type="text" />
+      </form>
       </p>
     </>
   )
